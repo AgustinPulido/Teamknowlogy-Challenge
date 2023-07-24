@@ -24,6 +24,12 @@ npm start
 
 La API ahora está en funcionamiento y escuchando en el puerto especificado (por defecto, en el puerto 3000). Puedes acceder a ella a través de tu navegador o herramientas como Postman.
 
+El servicio "/mutation/" permite enviar por un POST un JSON con el formato:
+
+{
+  “dna”:["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]
+}
+
 # Google App Engine
 
 La API REST esta desplegada en un cloud computing libre, la URL de la misma es: https://teamknowlogy-393817.uc.r.appspot.com/mutation/
