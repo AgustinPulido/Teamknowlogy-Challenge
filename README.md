@@ -26,4 +26,4 @@ La API ahora está en funcionamiento y escuchando en el puerto especificado (por
 
 # Google App Engine
 
-La API REST esta desplegada en un cloud computing libre, la URL de la misma es: [teamknowlogy-393817.uc.r.appspot.com/mutation/](https://teamknowlogy-393817.uc.r.appspot.com/mutation/)https://teamknowlogy-393817.uc.r.appspot.com/mutation/
+La API REST esta desplegada en un cloud computing libre, la URL de la misma es: https://teamknowlogy-393817.uc.r.appspot.com/mutation/
